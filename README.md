@@ -20,7 +20,7 @@ Las figuras finales utilizadas en el trabajo se encuentran incluidas en el repos
 * `GeneracionEspecies.R`: genera el pool inicial de especies y construye las comunidades.
 * `EvolucionSistemaInicial.R`: evoluciona las comunidades iniciales hasta alcanzar el equilibrio. Para ello utiliza los scripts auxiliares `dynamic_integrator.R`, `event_func2.R` y `convergence_param_func2.R`.
 * `Invasiones.R`: realiza los experimentos de invasión sobre las comunidades en equilibrio.
-* `analisis_invasion.R`: analiza los resultados de las invasiones y genera las figuras correspondientes.
+* `análisis_invasión.R`: analiza los resultados de las invasiones y genera las figuras correspondientes.
 
 ## Autor
 
